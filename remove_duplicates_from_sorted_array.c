@@ -1,3 +1,5 @@
+// testing testing testing testing
+
 #include<stdio.h>
 int removeDuplicates(int arr[], int n)
 {
